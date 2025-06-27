@@ -5,7 +5,7 @@
 <br>
 🤝 I’m looking for help with back-end technologies and becoming a full-stack developer
 <br>
-🌱 I’m currently learning JavaScript
+🌱 I’m currently learning React + Vite
 <br>
 💬 Ask me about my journey into web development and how I’m building my skills step by step
 <br>
