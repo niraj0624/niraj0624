@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Front-end projects using JavaScript
+🔭 I’m currently working on Front-end projects using React JS
 <br>
 👯 I’m looking to collaborate on exciting front-end projects with like-minded developers
 <br>
