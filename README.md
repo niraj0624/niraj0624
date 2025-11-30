@@ -21,7 +21,7 @@ I am actively looking for guidance and collaboration on:
 
 | Platform | Link |
 | :--- | :--- |
-| **X** (Twitter) | [X Handle](https://x.com/niraj_0624) |
+| **X** (Twitter) | [@niraj_0624](https://x.com/niraj_0624) |
 | **Email** | [nirajsk1596@gmail.com](mailto:nirajsk1596@gmail.com) |
 
 ---
